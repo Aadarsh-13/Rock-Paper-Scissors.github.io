@@ -7,6 +7,13 @@
 body{
   background: #3f4249;
 }
+
+body:hover {
+  background: #3279ac; /* Change to any color you want */
+}
+
+
+
 h1 {
   background-color: #081b31;
   color: #fff;
