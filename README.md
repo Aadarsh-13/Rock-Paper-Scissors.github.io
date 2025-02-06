@@ -22,6 +22,11 @@ Welcome to the Rock Paper Scissors game! This is a fun and interactive web-based
 
 🖥 app.js – Handles the game logic and interactions.
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/c95df679-c076-47a7-8fe1-62d7ed8e0f13)
+
+
+
 # 🕹 How to Play
 
 1️⃣ Open index.html in a web browser.
